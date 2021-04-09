@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vuongnguyen2112
-- 👀 I’m interested in Web dev and reading!!
+- 👀 I’m interested in Web dev and helping others people!!
 
 
 <!---
