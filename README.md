@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vuongnguyen2112
-- 👀 I’m FE developer specialize in Reactjs, Vuejs, Typescript and more
+- 👀 I’m FE developer specialize in Reactjs, Angular, Typescript and more
 
 
 <!---
